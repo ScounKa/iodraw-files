@@ -11,7 +11,7 @@
           <mxGeometry x="140" y="80" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-3" value="自动搜索设备?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="135" y="130" width="151" height="60" as="geometry" />
+          <mxGeometry x="140" y="130" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-4" value="显示可配对设备" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="20" y="425" width="172" height="48" as="geometry" />
@@ -45,20 +45,6 @@
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="qhgLxLD3S6YQcyF4bq3W-2" target="qhgLxLD3S6YQcyF4bq3W-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qhgLxLD3S6YQcyF4bq3W-14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="qhgLxLD3S6YQcyF4bq3W-3" target="qhgLxLD3S6YQcyF4bq3W-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="106" y="389" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qhgLxLD3S6YQcyF4bq3W-15" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="qhgLxLD3S6YQcyF4bq3W-3" target="qhgLxLD3S6YQcyF4bq3W-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="389" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.16;entryY=0.01;rounded=0;fontSize=9;" edge="1" parent="1" source="qhgLxLD3S6YQcyF4bq3W-4" target="qhgLxLD3S6YQcyF4bq3W-6">
