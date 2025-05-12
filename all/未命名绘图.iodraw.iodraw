@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-3" value="写入起始信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="53" y="160" width="156" height="48" as="geometry" />
+          <mxGeometry x="53" y="140" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-4" value="写入应答信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="53" y="230" width="156" height="48" as="geometry" />
@@ -46,6 +46,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wUcB2d11BcG5SfeoA8DQ-7" target="wUcB2d11BcG5SfeoA8DQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wUcB2d11BcG5SfeoA8DQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wUcB2d11BcG5SfeoA8DQ-20" target="wUcB2d11BcG5SfeoA8DQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-20" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
