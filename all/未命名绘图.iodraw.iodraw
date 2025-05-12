@@ -18,7 +18,7 @@
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-2" value="蓝牙模块初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="140" y="80" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qhgLxLD3S6YQcyF4bq3W-4" value="显示可配对设备" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="qhgLxLD3S6YQcyF4bq3W-4" value="搜索配对" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="151.5" y="130" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-5" value="手动输入地址" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
