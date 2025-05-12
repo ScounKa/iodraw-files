@@ -29,8 +29,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-41" value="复位关闭" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="130" y="160" width="110" height="30" as="geometry" />
+        <mxCell id="WELtX0y5jH772-ltDeBo-41" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
