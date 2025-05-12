@@ -38,20 +38,10 @@
           <mxGeometry x="158.5" y="590" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-10" value="双向数据传输" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="135" y="1032" width="156" height="48" as="geometry" />
+          <mxGeometry x="143" y="730" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-11" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="185" y="1131" width="55" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="qhgLxLD3S6YQcyF4bq3W-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="qhgLxLD3S6YQcyF4bq3W-9" target="qhgLxLD3S6YQcyF4bq3W-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qhgLxLD3S6YQcyF4bq3W-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.51;entryY=-0.01;rounded=0;fontSize=9;" edge="1" parent="1" source="qhgLxLD3S6YQcyF4bq3W-10" target="qhgLxLD3S6YQcyF4bq3W-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
