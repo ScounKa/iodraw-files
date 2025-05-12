@@ -63,10 +63,7 @@
           <mxGeometry x="271" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-34" value="加减" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="127.5" y="400" width="119" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cNOEsTqVty37oE2HGt2S-36" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="283.5" y="480" width="55" height="33" as="geometry" />
+          <mxGeometry x="131" y="420" width="119" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
