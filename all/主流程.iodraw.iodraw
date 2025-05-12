@@ -66,10 +66,10 @@
           <mxGeometry x="100.5" y="420" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-35" value="执行清零" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="106" y="720" width="124" height="48" as="geometry" />
+          <mxGeometry x="95.5" y="570" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-36" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="146" y="1195" width="55" height="33" as="geometry" />
+          <mxGeometry x="130" y="630" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-47" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBorderColor=default;fontSize=9;" edge="1" parent="1" source="cNOEsTqVty37oE2HGt2S-34" target="cNOEsTqVty37oE2HGt2S-35">
           <mxGeometry relative="1" as="geometry">
