@@ -8,7 +8,7 @@
           <mxGeometry x="76" y="18" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="2B01-mKpOFC9CC-2BpXe-2" value="OLED初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="31" y="101" width="145" height="48" as="geometry" />
+          <mxGeometry x="31" y="101" width="131" height="34" as="geometry" />
         </mxCell>
         <mxCell id="2B01-mKpOFC9CC-2BpXe-3" value="配置IIC引脚" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="33" y="200" width="142" height="48" as="geometry" />
