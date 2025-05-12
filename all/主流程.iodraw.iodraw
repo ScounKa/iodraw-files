@@ -8,37 +8,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-26" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="210" y="10" width="40" height="23" as="geometry" />
+          <mxGeometry x="290" y="10" width="40" height="23" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNOEsTqVty37oE2HGt2S-27" target="cNOEsTqVty37oE2HGt2S-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-27" value="STM32引脚初始化" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="170" y="50" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNOEsTqVty37oE2HGt2S-28" target="cNOEsTqVty37oE2HGt2S-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-28" value="IIC初始化&#xa;液晶显示/ADXL345" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="120" y="100" width="220" height="30" as="geometry" />
+          <mxGeometry x="200" y="100" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNOEsTqVty37oE2HGt2S-29" target="cNOEsTqVty37oE2HGt2S-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-29" value="蓝牙串口初始化" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="160" y="150" width="140" height="30" as="geometry" />
+          <mxGeometry x="240" y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNOEsTqVty37oE2HGt2S-30" target="cNOEsTqVty37oE2HGt2S-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-30" value="MAX30102&#xa;心率血氧采集" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="131" y="200" width="200" height="30" as="geometry" />
+          <mxGeometry x="211" y="200" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNOEsTqVty37oE2HGt2S-31" target="cNOEsTqVty37oE2HGt2S-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-31" value="手机端/液晶显示" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="161" y="250" width="140" height="30" as="geometry" />
+          <mxGeometry x="241" y="250" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNOEsTqVty37oE2HGt2S-32" target="cNOEsTqVty37oE2HGt2S-31">
           <mxGeometry relative="1" as="geometry" />
@@ -57,19 +57,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-32" value="是否按键按下" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="171.5" y="300" width="119" height="40" as="geometry" />
+          <mxGeometry x="251.5" y="300" width="119" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-33" value="进入按键设置" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="191" y="370" width="80" height="30" as="geometry" />
+          <mxGeometry x="271" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-34" value="加减" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="171.5" y="420" width="119" height="40" as="geometry" />
+          <mxGeometry x="251.5" y="420" width="119" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-35" value="执行清零" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="166.5" y="570" width="124" height="48" as="geometry" />
+          <mxGeometry x="246.5" y="570" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-36" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="201" y="630" width="55" height="33" as="geometry" />
+          <mxGeometry x="281" y="630" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-47" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBorderColor=default;fontSize=9;" edge="1" parent="1" source="cNOEsTqVty37oE2HGt2S-34" target="cNOEsTqVty37oE2HGt2S-35">
           <mxGeometry relative="1" as="geometry">
