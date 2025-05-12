@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="XVeexjRUafCR0SnMTA5E">
-    <mxGraphModel dx="171" dy="197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="293" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,10 +40,13 @@
         <mxCell id="exZLQD2DhF0ZAODzNGjz-7" value="MAX30102读缓冲器FIFO" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="100.5" y="270" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="exZLQD2DhF0ZAODzNGjz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="exZLQD2DhF0ZAODzNGjz-26" target="exZLQD2DhF0ZAODzNGjz-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-26" value="PPG算法计算心率血氧" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="100.5" y="320" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-28" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="exZLQD2DhF0ZAODzNGjz-28" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="128" y="370" width="55" height="23" as="geometry" />
         </mxCell>
       </root>
