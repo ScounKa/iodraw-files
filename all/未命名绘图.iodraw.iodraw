@@ -29,7 +29,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-41" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="WELtX0y5jH772-ltDeBo-41" value="DS1302地址写入保护" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
