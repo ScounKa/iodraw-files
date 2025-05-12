@@ -11,7 +11,7 @@
           <mxGeometry x="54" y="72" width="99" height="27" as="geometry" />
         </mxCell>
         <mxCell id="2B01-mKpOFC9CC-2BpXe-3" value="配置IIC引脚" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="33" y="117" width="142" height="48" as="geometry" />
+          <mxGeometry x="33" y="117" width="129" height="27" as="geometry" />
         </mxCell>
         <mxCell id="2B01-mKpOFC9CC-2BpXe-4" value="设置寄存器地址" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="17.5" y="180" width="172" height="48" as="geometry" />
