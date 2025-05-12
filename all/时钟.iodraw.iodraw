@@ -17,7 +17,7 @@
           <mxGeometry x="100.5" y="70" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-4" value="MAX30102写寄存器" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="70" y="120" width="170" height="30" as="geometry" />
+          <mxGeometry x="70.5" y="120" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-5" value="MAX30102读寄存器" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="150" height="30" as="geometry" />
@@ -30,11 +30,6 @@
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-7" value="MAX30102读缓冲器FIFO" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="100" y="270" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="exZLQD2DhF0ZAODzNGjz-4" target="exZLQD2DhF0ZAODzNGjz-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontSize=9;" edge="1" parent="1" source="exZLQD2DhF0ZAODzNGjz-5" target="exZLQD2DhF0ZAODzNGjz-6">
           <mxGeometry relative="1" as="geometry">
