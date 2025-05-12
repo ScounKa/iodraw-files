@@ -25,18 +25,6 @@
         <mxCell id="exZLQD2DhF0ZAODzNGjz-8" value="数据有效?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="95.5" y="525" width="119" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-10" value="执行心率算法" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="77" y="957" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-11" value="执行血氧算法" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="77" y="1056" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-12" value="数据平滑处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="77" y="1154" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-13" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="128" y="1253" width="55" height="33" as="geometry" />
-        </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="exZLQD2DhF0ZAODzNGjz-4" target="exZLQD2DhF0ZAODzNGjz-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -48,27 +36,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="exZLQD2DhF0ZAODzNGjz-6" target="exZLQD2DhF0ZAODzNGjz-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=9;" edge="1" parent="1" target="exZLQD2DhF0ZAODzNGjz-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="155.5000000000001" y="881.9999999999998" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="exZLQD2DhF0ZAODzNGjz-10" target="exZLQD2DhF0ZAODzNGjz-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="exZLQD2DhF0ZAODzNGjz-11" target="exZLQD2DhF0ZAODzNGjz-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontSize=9;" edge="1" parent="1" source="exZLQD2DhF0ZAODzNGjz-12" target="exZLQD2DhF0ZAODzNGjz-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
