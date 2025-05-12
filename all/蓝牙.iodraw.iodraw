@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="XIL26O-Znf6xDqVsSkSA">
-    <mxGraphModel dx="276" dy="559" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,6 +83,45 @@
         </mxCell>
         <mxCell id="3VW0IfGjIE9IJZj5y4mk-13" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBorderColor=none;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="59.899993896484375" y="493.4000244140625" width="45" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7xVHLPV8ZySby0GOHMjZ-2" target="7xVHLPV8ZySby0GOHMjZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-2" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="933.7999877929688" y="248" width="45" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7xVHLPV8ZySby0GOHMjZ-4" target="7xVHLPV8ZySby0GOHMjZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-4" value="OLED初始化" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="906.7999877929688" y="293" width="99" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7xVHLPV8ZySby0GOHMjZ-6" target="7xVHLPV8ZySby0GOHMjZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-6" value="配置IIC引脚" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="897.7999877929688" y="338" width="117" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7xVHLPV8ZySby0GOHMjZ-8" target="7xVHLPV8ZySby0GOHMjZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-8" value="设置寄存器地址" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="889.2999877929688" y="383" width="135" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7xVHLPV8ZySby0GOHMjZ-10" target="7xVHLPV8ZySby0GOHMjZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-10" value="发送控制指令" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="898.2999877929688" y="428" width="117" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7xVHLPV8ZySby0GOHMjZ-12" target="7xVHLPV8ZySby0GOHMjZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-12" value="写入显示数据" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="888.7999877929688" y="473" width="135" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7xVHLPV8ZySby0GOHMjZ-13" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="934.2999877929688" y="518" width="45" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
