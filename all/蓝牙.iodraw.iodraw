@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2B01-mKpOFC9CC-2BpXe-1" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="76" y="18" width="55" height="33" as="geometry" />
+          <mxGeometry x="81" y="27" width="45" height="27" as="geometry" />
         </mxCell>
         <mxCell id="2B01-mKpOFC9CC-2BpXe-2" value="OLED初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="54" y="72" width="99" height="27" as="geometry" />
