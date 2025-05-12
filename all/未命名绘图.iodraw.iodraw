@@ -8,7 +8,7 @@
           <mxGeometry x="85" y="20" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-2" value="ADXL345初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="46" y="118" width="170" height="48" as="geometry" />
+          <mxGeometry x="46" y="90" width="170" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-3" value="写入起始信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="53" y="217" width="156" height="48" as="geometry" />
