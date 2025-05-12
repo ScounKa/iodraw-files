@@ -10,8 +10,8 @@
         <mxCell id="exZLQD2DhF0ZAODzNGjz-3" value="IIC初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-4" value="配置MAX30102寄存器" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="49" y="130" width="212" height="48" as="geometry" />
+        <mxCell id="exZLQD2DhF0ZAODzNGjz-4" value="MAX30102写寄存器" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="49" y="120" width="212" height="48" as="geometry" />
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-5" value="设置传感器模式" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="69" y="300" width="172" height="48" as="geometry" />
