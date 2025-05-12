@@ -78,11 +78,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cNOEsTqVty37oE2HGt2S-65" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cNOEsTqVty37oE2HGt2S-64">
-          <mxGeometry x="0.9486" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-63" value="加减" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="354" y="440" width="119" height="40" as="geometry" />
         </mxCell>
