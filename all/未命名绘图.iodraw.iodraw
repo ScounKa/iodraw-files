@@ -63,8 +63,11 @@
         <mxCell id="WELtX0y5jH772-ltDeBo-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-56" target="WELtX0y5jH772-ltDeBo-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-62" value="变量初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="WELtX0y5jH772-ltDeBo-62" value="复位关闭" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="340" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WELtX0y5jH772-ltDeBo-63" value="变量初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="137.25" y="70" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
