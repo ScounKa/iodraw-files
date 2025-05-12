@@ -51,8 +51,8 @@
         <mxCell id="cNOEsTqVty37oE2HGt2S-32" value="是否按键按下" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="100.5" y="300" width="119" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cNOEsTqVty37oE2HGt2S-33" value="进入按键设置" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="120" y="370" width="80" height="20" as="geometry" />
+        <mxCell id="cNOEsTqVty37oE2HGt2S-33" value="进入按键设置" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-34" value="加减操作?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="115" y="905" width="119" height="119" as="geometry" />
