@@ -28,26 +28,6 @@
         <mxCell id="2B01-mKpOFC9CC-2BpXe-7" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="81.5" y="297" width="45" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="2B01-mKpOFC9CC-2BpXe-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;labelBorderColor=none;fontSize=9;" edge="1" parent="1" source="2B01-mKpOFC9CC-2BpXe-2" target="2B01-mKpOFC9CC-2BpXe-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2B01-mKpOFC9CC-2BpXe-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBorderColor=none;fontSize=9;" edge="1" parent="1" source="2B01-mKpOFC9CC-2BpXe-3" target="2B01-mKpOFC9CC-2BpXe-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2B01-mKpOFC9CC-2BpXe-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;labelBorderColor=none;fontSize=9;" edge="1" parent="1" source="2B01-mKpOFC9CC-2BpXe-4" target="2B01-mKpOFC9CC-2BpXe-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2B01-mKpOFC9CC-2BpXe-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBorderColor=none;fontSize=9;" edge="1" parent="1" source="2B01-mKpOFC9CC-2BpXe-5" target="2B01-mKpOFC9CC-2BpXe-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2B01-mKpOFC9CC-2BpXe-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.51;entryY=0.01;rounded=0;labelBorderColor=none;fontSize=9;" edge="1" parent="1" source="2B01-mKpOFC9CC-2BpXe-6" target="2B01-mKpOFC9CC-2BpXe-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
