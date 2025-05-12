@@ -10,8 +10,11 @@
         <mxCell id="WELtX0y5jH772-ltDeBo-3" value="数据写入流程" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="20" y="477" width="280" height="496" as="geometry" />
         </mxCell>
+        <mxCell id="WELtX0y5jH772-ltDeBo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-4" target="WELtX0y5jH772-ltDeBo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-4" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="147" y="10" width="53" height="23" as="geometry" />
+          <mxGeometry x="148" y="10" width="53" height="23" as="geometry" />
         </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-5" value="变量初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="120" y="50" width="110" height="27" as="geometry" />
@@ -60,11 +63,6 @@
         </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-20" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="147" y="1909" width="55" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-4" target="WELtX0y5jH772-ltDeBo-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-5" target="WELtX0y5jH772-ltDeBo-6">
           <mxGeometry relative="1" as="geometry">
