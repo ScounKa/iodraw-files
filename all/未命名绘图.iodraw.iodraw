@@ -22,18 +22,6 @@
         <mxCell id="WELtX0y5jH772-ltDeBo-7" value="复位关闭" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-10" value="写入寄存器数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="89" y="600" width="172" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-11" value="地址+1" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="71" y="699" width="109" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-12" value="写完所有数据?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="99" y="797" width="151" height="151" as="geometry" />
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-13" value="拉低RST引脚" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1045" width="150" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-14" value="写入读取地址" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="97" y="1144" width="156" height="48" as="geometry" />
         </mxCell>
@@ -65,36 +53,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-10" target="WELtX0y5jH772-ltDeBo-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="125" y="674" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.26;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-11" target="WELtX0y5jH772-ltDeBo-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="125" y="772" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-29" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0.64;entryY=1.02;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-12" target="WELtX0y5jH772-ltDeBo-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="225" y="772" />
-              <mxPoint x="225" y="674" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-30" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-12" target="WELtX0y5jH772-ltDeBo-13">
+        <mxCell id="WELtX0y5jH772-ltDeBo-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" target="WELtX0y5jH772-ltDeBo-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-13" target="WELtX0y5jH772-ltDeBo-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="175" y="1093" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-14" target="WELtX0y5jH772-ltDeBo-15">
