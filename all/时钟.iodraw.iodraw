@@ -8,7 +8,7 @@
           <mxGeometry x="128" y="30" width="55" height="23" as="geometry" />
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-3" value="IIC初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="90" y="70" width="130" height="40" as="geometry" />
+          <mxGeometry x="100" y="70" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-4" value="配置MAX30102寄存器" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="49" y="130" width="212" height="48" as="geometry" />
