@@ -39,8 +39,8 @@
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-10" value="双方进行通信" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="150" y="280" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qhgLxLD3S6YQcyF4bq3W-31" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="195" y="40" width="50" height="30" as="geometry" />
+        <mxCell id="qhgLxLD3S6YQcyF4bq3W-31" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="185" y="330" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
