@@ -19,15 +19,6 @@
         <mxCell id="WELtX0y5jH772-ltDeBo-7" value="复位关闭" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-18" value="读完所有数据?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="99" y="1562" width="151" height="151" as="geometry" />
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-19" value="处理显示数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="97" y="1811" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-20" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="147" y="1909" width="55" height="33" as="geometry" />
-        </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-5" target="WELtX0y5jH772-ltDeBo-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -38,32 +29,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="125" y="1439" />
-            </Array>
-            <mxPoint x="150.91999999999996" y="1414" as="sourcePoint" />
-            <mxPoint x="125.5" y="1464" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.26;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" target="WELtX0y5jH772-ltDeBo-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="125" y="1537" />
-            </Array>
-            <mxPoint x="125.5" y="1512" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-37" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-18" target="WELtX0y5jH772-ltDeBo-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="WELtX0y5jH772-ltDeBo-19" target="WELtX0y5jH772-ltDeBo-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="WELtX0y5jH772-ltDeBo-41" value="复位关闭" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
