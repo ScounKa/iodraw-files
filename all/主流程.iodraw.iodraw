@@ -63,7 +63,7 @@
           <mxGeometry x="120" y="370" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-34" value="加减操作?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="100.5" y="420" width="119" height="119" as="geometry" />
+          <mxGeometry x="100.5" y="420" width="119" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-35" value="执行清零" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="95.5" y="570" width="124" height="48" as="geometry" />
