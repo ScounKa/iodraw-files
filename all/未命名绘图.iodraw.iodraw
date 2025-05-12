@@ -84,6 +84,9 @@
         <mxCell id="WELtX0y5jH772-ltDeBo-69" value="读地址的数据读出" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WELtX0y5jH772-ltDeBo-71" value="延时" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
