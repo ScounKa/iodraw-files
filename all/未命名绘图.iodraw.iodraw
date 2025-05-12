@@ -23,7 +23,7 @@
           <mxGeometry x="69" y="370" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-7" value="是否发生位移" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="20" y="633" width="144" height="144" as="geometry" />
+          <mxGeometry x="49" y="450" width="144" height="144" as="geometry" />
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-8" value="步数加一" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="850" width="124" height="48" as="geometry" />
