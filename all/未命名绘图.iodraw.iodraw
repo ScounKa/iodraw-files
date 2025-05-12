@@ -23,7 +23,7 @@
           <mxGeometry x="13" y="230" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-5" value="手动输入地址" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="240" y="221" width="156" height="48" as="geometry" />
+          <mxGeometry x="240" y="230" width="130" height="29" as="geometry" />
         </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-6" value="选择目标设备" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="140" y="320" width="156" height="48" as="geometry" />
