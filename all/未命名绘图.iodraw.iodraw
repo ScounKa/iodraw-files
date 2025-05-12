@@ -16,8 +16,14 @@
         <mxCell id="9QDMZhQmtJiSkjDg5L28-3" value="写入起始信号" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="110" y="620" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9QDMZhQmtJiSkjDg5L28-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9QDMZhQmtJiSkjDg5L28-4" target="9QDMZhQmtJiSkjDg5L28-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9QDMZhQmtJiSkjDg5L28-4" value="写入应答信号" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="120" y="670" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9QDMZhQmtJiSkjDg5L28-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9QDMZhQmtJiSkjDg5L28-5" target="9QDMZhQmtJiSkjDg5L28-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9QDMZhQmtJiSkjDg5L28-5" value="接受应答信号" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="120" y="720" width="120" height="30" as="geometry" />
