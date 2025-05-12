@@ -14,10 +14,10 @@
           <mxGeometry x="147" width="55" height="33" as="geometry" />
         </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-5" value="变量初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="105" y="83" width="125" height="27" as="geometry" />
+          <mxGeometry x="120" y="50" width="110" height="27" as="geometry" />
         </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-6" value="关闭DS1302写保护" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="79" y="182" width="191" height="48" as="geometry" />
+          <mxGeometry x="90" y="182" width="160" height="28" as="geometry" />
         </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-7" value="拉低RST复位引脚" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="84" y="280" width="182" height="48" as="geometry" />
