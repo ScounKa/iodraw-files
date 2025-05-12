@@ -11,7 +11,7 @@
           <mxGeometry x="60" y="140" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-4" value="写入应答信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="53" y="230" width="156" height="48" as="geometry" />
+          <mxGeometry x="70" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-5" value="接受应答信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="53" y="300" width="156" height="48" as="geometry" />
