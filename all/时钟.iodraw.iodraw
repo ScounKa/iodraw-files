@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="120" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-5" value="设置传感器模式" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="69" y="300" width="172" height="48" as="geometry" />
+          <mxGeometry x="80" y="170" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-6" value="使能FIFO存储" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="77" y="424" width="156" height="48" as="geometry" />
@@ -39,11 +39,6 @@
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-13" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="128" y="1253" width="55" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="exZLQD2DhF0ZAODzNGjz-3" target="exZLQD2DhF0ZAODzNGjz-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=9;" edge="1" parent="1" source="exZLQD2DhF0ZAODzNGjz-4" target="exZLQD2DhF0ZAODzNGjz-5">
           <mxGeometry relative="1" as="geometry">
