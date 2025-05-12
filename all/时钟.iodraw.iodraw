@@ -13,7 +13,7 @@
         <mxCell id="exZLQD2DhF0ZAODzNGjz-4" value="MAX30102写寄存器" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="70" y="120" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-5" value="设置传感器模式" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="exZLQD2DhF0ZAODzNGjz-5" value="MAX30102读寄存器" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-6" value="使能FIFO存储" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
