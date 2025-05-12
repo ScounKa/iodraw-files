@@ -24,11 +24,14 @@
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-4" value="搜索配对" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="151.5" y="130" width="117" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qhgLxLD3S6YQcyF4bq3W-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qhgLxLD3S6YQcyF4bq3W-5" target="qhgLxLD3S6YQcyF4bq3W-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-5" value="输入配对密码" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="145" y="180" width="130" height="29" as="geometry" />
         </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-8" value="设置通信波特率" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="127" y="230" width="172" height="48" as="geometry" />
+          <mxGeometry x="140" y="230" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qhgLxLD3S6YQcyF4bq3W-9" value="握手成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="158.5" y="590" width="119" height="119" as="geometry" />
