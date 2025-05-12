@@ -19,11 +19,11 @@
         <mxCell id="WELtX0y5jH772-ltDeBo-5" value="变量初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="119.5" y="50" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WELtX0y5jH772-ltDeBo-6" value="关闭DS1302写保护" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="WELtX0y5jH772-ltDeBo-6" value="关闭DS1302写入保护" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="94.5" y="100" width="160" height="28" as="geometry" />
         </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-7" value="拉低RST复位引脚" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="83.5" y="150" width="182" height="48" as="geometry" />
+          <mxGeometry x="90" y="150" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WELtX0y5jH772-ltDeBo-8" value="写入目标寄存器地址" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="73" y="379" width="204" height="48" as="geometry" />
