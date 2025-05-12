@@ -31,8 +31,8 @@
         <mxCell id="cNOEsTqVty37oE2HGt2S-30" value="MAX30102&#xa;心率血氧采集" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="60" y="200" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cNOEsTqVty37oE2HGt2S-31" value="手机端/液晶显示" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="70" y="260" width="180" height="48" as="geometry" />
+        <mxCell id="cNOEsTqVty37oE2HGt2S-31" value="手机端/液晶显示" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-32" value="按键按下?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="58" y="615" width="119" height="119" as="geometry" />
