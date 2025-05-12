@@ -7,7 +7,7 @@
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-2" value="ADXL345初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="60" y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wUcB2d11BcG5SfeoA8DQ-3" value="写入起始信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wUcB2d11BcG5SfeoA8DQ-3" value="写入起始信号" style="whiteSpace=wrap;strokeWidth=2;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="60" y="140" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUcB2d11BcG5SfeoA8DQ-4" value="写入应答信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
