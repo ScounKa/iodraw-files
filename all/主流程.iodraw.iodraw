@@ -52,7 +52,7 @@
           <mxGeometry x="100.5" y="300" width="119" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-33" value="进入按键设置" style="whiteSpace=wrap;strokeWidth=2;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="39" y="807" width="156" height="48" as="geometry" />
+          <mxGeometry x="80" y="370" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNOEsTqVty37oE2HGt2S-34" value="加减操作?" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBorderColor=default;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="115" y="905" width="119" height="119" as="geometry" />
