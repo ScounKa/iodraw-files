@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="exZLQD2DhF0ZAODzNGjz-1" value="数据采集循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="399" width="271" height="509" as="geometry" />
-        </mxCell>
         <mxCell id="exZLQD2DhF0ZAODzNGjz-2" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="128" y="20" width="55" height="33" as="geometry" />
         </mxCell>
